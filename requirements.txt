@@ -1,0 +1,8 @@
+seaborn
+keras
+tensorflow
+sklearn
+Pillow
+tifffile
+scikit-image
+
