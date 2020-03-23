@@ -1,5 +1,7 @@
-# NU_ELEC_ENG_435_DeepLearning_Final_Project
+# GeoSpatial Imagery Pipeline and NDVI Analysis Tool
 
-Read the notebook for specific descriptions
+I worked too much on NLP projects lately.
+There shall be a vision/imagery project.
+Here it is.
 
-Super busy at the moment, will update requirements.txt in a few days
+Whenever there is a package (from req.txt) related issue, update it via pip.
